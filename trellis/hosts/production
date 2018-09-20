@@ -2,7 +2,7 @@
 # List each machine only once per [group], even if it will host multiple sites.
 
 [production]
-104.248.22.28
+trellis.fransvilhelm.com
 
 [web]
-104.248.22.28
+trellis.fransvilhelm.com
